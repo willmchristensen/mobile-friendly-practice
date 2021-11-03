@@ -1,0 +1,26 @@
+.wrapper{
+    width: 500px;
+}
+.wave{
+    height: 400px;
+}
+.title{
+    position:relative;
+    top: 50%;
+    right: 4%;
+}
+h1{
+    text-align: center;
+}
+.content{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.wmc{
+    position:relative;
+    text-align: center;
+}
+.foot{
+    font-weight: 900;
+    font-size: 15px;
+}

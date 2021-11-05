@@ -1,0 +1,15 @@
+buttons: starfish, waves, seashells,birds,ships, anchor, radar
+anchor- bottom of page
+starfish/steering wheel- spins the page or changes effects
+pod of fish - animation of a pod flies across screen
+telescope-more info/ different pages/parts of the world
+bottle message - secret popup message
+umbrella - darken
+lighthouse - bright/ or animation
+goggles - invisible fish
+jellyfish - electric
+
+under wave: 
+-stained glass that turns over when pressed
+treasure map opens a scroll of info
+
